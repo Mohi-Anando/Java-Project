@@ -1,0 +1,4 @@
+Arabian Khabsa,2;Kabuli Polao,2;Gold Burger,2;Total=72000.0Taka;
+Salt bae Burger,3;Easy Burger,2;Steak Drama,2;Total=43400.0Taka;
+Arabian Khabsa,1;Total=4500.0Taka;
+Arabian Khabsa,2;Total=9000.0Taka;

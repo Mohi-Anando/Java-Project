@@ -1,0 +1,2 @@
+Arabian Khabsa,1;Parda Biriyani,1;Kabuli Polao,1;Total=10000.0Taka;
+Arabian Khabsa,2;Parda Biriyani,2;Kabuli Polao,2;Total=20000.0Taka;

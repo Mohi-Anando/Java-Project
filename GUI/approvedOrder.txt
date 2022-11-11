@@ -1,0 +1,8 @@
+Arabian Khabsa,4;Parda Biriyani,4;Kabuli Polao,4;Safrani Polao,4;Total=60000.0Taka;
+Arabian Khabsa,3;Parda Biriyani,3;Kabuli Polao,3;Safrani Polao,3;Salt bae Burger,3;Gold Burger,3;Juicy Burger,3;Easy Burger,3;Total=141900.0Taka;
+Arabian Khabsa,1;Parda Biriyani,2;Total=12500.0Taka;
+Arabian Khabsa,3;Kabuli Polao,3;Safrani Polao,3;Total=33000.0Taka;
+Arabian Khabsa,4;Safrani Polao,5;Easy Burger,6;Total=46000.0Taka;
+Arabian Khabsa,2;Kabuli Polao,3;Salt bae Burger,4;Total=16700.0Taka;
+Arabian Khabsa,8;Safrani Polao,8;Total=76000.0Taka;
+Arabian Khabsa,1;Kabuli Polao,10;Total=19500.0Taka;
